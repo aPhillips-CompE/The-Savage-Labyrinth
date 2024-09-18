@@ -1,0 +1,17 @@
+Uses images for background
+
+Uses images for buttons
+
+Have a 15/100 chance to encounter an enemy based on their level
+
+Let it be a map perspective similar to Zelda II or Final Fantasy
+
+When an enemy is encountered on a certain square switch to view of the enemy
+
+Have settlements and some NPCs, let one or two have a quest per settlement
+
+Let it be a maze that has to be explored, NO MAP, the player will have to write it down if they want a map
+
+Let enemies be fantasy related, maybe sneak some sci-fi in.
+
+Giant turtles to fit the houses

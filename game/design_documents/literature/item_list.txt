@@ -1,0 +1,112 @@
+This is the list of items within the game with their stats and gold value
+
+Weapons			Price(gp)		Damage
+=========================================================
+Hand			0gp			2 dmg
+Padded gauntlets	10gp			4 dmg
+Steel gauntlets		35gp			10 dmg
+Dwarven gauntlets	60gp			15 dmg
+Mithril gauntlets	80gp			20 dmg
+
+Wooden bow		20gp			3 dmg
+
+Iron dagger		10gp			3 dmg
+Iron short sword	15gp			3 dmg
+Iron long sword		20gp			5 dmg
+Iron battleaxe		40gp			7 dmg
+Iron bow		45gp			6 dmg
+
+Bronze dagger		20gp			5 dmg
+Bronze short sword	30gp			5 dmg
+Bronze long sword	40gp			7 dmg
+Bronze battleaxe	60gp			10 dmg
+Bronze bow		65gp			9 dmg
+
+Steel dagger		40gp			8 dmg
+Steel short sword	50gp			8 dmg
+Steel long sword	65gp			10 dmg
+Steel battleaxe		100gp			14 dmg
+Steel bow		110gp			15 dmg
+
+Obsidian dagger		60gp			12 dmg
+Obsidian short sword	70gp			12 dmg
+Obsidian long sword	80gp			14 dmg
+Obsidian battleaxe	100gp			17 dmg
+Obsidian bow		160gp			18 dmg
+
+Mithril dagger		90gp			15 dmg
+Mithril short sword	100gp			15 dmg
+Mithril long sword	1100gp			18 dmg
+Mithril battleaxe	150gp			20 dmg
+Mithril bow		180gp			22 dmg
+
+Apparel			Price(gp)		Defense		Effect
+=========================================================================
+Prisoner shoes 		1gp			1 def		N/A
+Leather boots		10gp			3 def		N/A
+Iron boots		20gp			6 def       	N/A
+Steel boots		40gp			10 def      	N/A
+Elven boots		80gp			14 def      	N/A
+Mithril boots		100gp			20 def  	N/A
+								
+Prisoner pants		1gp			1 def       	N/A
+Leather greaves		20gp			3 def   	N/A
+Iron greaves		40gp			8 def   	N/A
+Steel greaves		70gp			12 def  	N/A
+Elven greaves		110gp			16 def  	N/A
+Mithril greaves		125gp			22 def  	N/A
+								
+Prisoner tunic		1gp			1 def       	N/A
+Leather chestplate	25gp			4 def		N/A	
+Iron chestplate		50gp			10 def  	N/A
+Steel chestplate	100gp			15 def  	N/A
+Elven chestplate	120gp			18 def  	N/A
+Mithril chestplate	150gp			25 def  	N/A
+							
+Leather helmet		10gp			3 def   	N/A
+Iron helmet		20gp			6 def       	N/A
+Steel helmet		40gp			10 def  	N/A
+Elven helmet		80gp			14 def  	N/A
+Mithril helmet		100gp			20 def  	N/A
+							
+Novice robes		20gp			3 def   	Increases magicka by 1.25
+Apprentice robes	40gp			5 def   	Increases magicka by 1.50
+Journeyman robes	60gp			7 def   	Increases magicka by 1.75
+Master robes		100gp			10 def  	Increases magicka by 2.00
+
+Potions			Price(gp)		Effect
+=========================================================
+Minor health potion	30gp			Increases health by 10%
+Minor magicka potion	30gp			Increases magicka by 10%
+Minor damage potion	40gp			Increases attack by 1.25
+Minor fortify "skill"	50gp			Fortifies the given skill by 5 points
+
+Health Potion		70gp			Increases health by 20%
+Magicka potion		70gp			Increases magicka by 20%
+Damage potion		80gp			Increases attack by 1.5
+Fortify "skill"		90gp			Fortifies the given skill by 10 points
+
+Major health potion	150gp			Increases health by 50%
+Major magicka potion	150gp			Increases magicka by 50%
+Major damage potion	175gp			Increases attack by 2.00
+Major fortify "skill"	200gp			Fortifies the given skill by 15 points
+
+Spells			Price(gp)		Damage		Effect
+=========================================================================
+Flare			20gp			5 dmg		Casts a small ball of fire
+Freeze			20gp			5 dmg		Casts a small jet of frost
+Shock			20gp			5 dmg		Casts a small ball of electricity
+Minor Restoration	30gp			N/A		Increases health by 10hp
+Minor Fortify "skill"	40gp			N/A		Fortifies the given skill by 5 points
+
+Fireball		40gp			15 dmg		Casts a ball of fire
+Frost			40gp			15 dmg		Casts a jet of frost
+Lightning bolt		40gp			15 dmg		Casts a ball of electricity
+Restoration		50gp			N/A		Increases health by 20hp
+Fortify "skill"		70gp			N/A		Fortifies the given skill by 10 points
+
+Firestorm		40gp			25 dmg		Casts a wave of fire
+Snowstorm		40gp			25 dmg		Casts a wave of frost
+Thunderstorm		20gp			25 dmg		Casts a wave of electricity
+Minor Restoration	30gp			N/A		Increases health by 25%
+Major Fortify "skill"	100gp			N/A		Fortifies the given skill by 15 points

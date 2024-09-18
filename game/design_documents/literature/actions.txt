@@ -1,0 +1,19 @@
+M)ENU - Allows the player to access a menu to choose a new game, quit the game, or change the settings.
+
+A)TTACK - This is only enable during combat or when talking to an npc.
+
+C)AST - This allows the player to cast magic spells. They can only cast attack spells during combat or to initiate combat.
+
+I)NVENTORY - This allows the player to manage their inventory and to view their inventory.
+
+S)AVE - This allows players to save their progress in the game.
+
+UP ARROW - Moves the player character up a block
+
+RIGHT ARROW - Moves the player character right a block
+
+DOWN ARROW - Moves the player character down a block
+
+LEFT ARROW - Moves the player character left a block
+
+Be on a block next to NPC and press Q to talk to them.

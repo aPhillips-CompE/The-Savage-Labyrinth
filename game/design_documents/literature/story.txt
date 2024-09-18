@@ -1,0 +1,9 @@
+In a time of swords and sorcery, kings and kingdoms, a time long forgotten, was a kingdom nestled in a comfortable part of the world. It rarely encountered hardship, the people were full and content, the king wealthy and powerful, and nation proud and patriotic. 
+
+Unfortunately in the King's older age, he started to get unpredictable. His turn from anger to peace was swift and terrible. He, one moment, sentenced people to death and the other was showering them with riches. His royal court has found this concerning but have feared his anger so have kept silent on the matter.
+
+You are a lowly noble in this court. One day while attending to your duties, you are caught in the King's rage and are sentenced to a life in imprisonment. He has sent you to where the kingdom's enemies and monster dwell, the Savage Labyrinth. You are tasked with escaping the floors of this accursed place and appealing to the King for your release.
+
+If the player has done things of virtue within the Labyrinth, the King will release him and the character will be set free.
+
+If the player has not done things of virtue within the Labyrinth, the King will not release the character and he will rot in the Labyrinth forever.

@@ -1,0 +1,71 @@
+Opening Paragraph - How Fare Thee Player, Welcome to the world of the Savage Labyrinth. In this adventure, thou wilst fight thou way through the floor(s) of the aforementioned labyrinth and confronted the King at the entrance of the labyrinth. Explore the labyrinth, find secrets, learn spells, gain weapons, advance in your skills. Good Luck and may thee escape the Savage Labyrinth.
+
+Character creation - Enter thy name, Select a class, distribute thy's attribute points.
+
+Player presses attack button (Not in Combat) - "Are you trying to waste your strength on air?"
+
+Player presses magic button (Not in Combat) - "You cannot use offensive spells when not in combat"
+
+Player presses save button (Not in Combat) - "Would you like to save your progress?"
+
+When a player uses a weapon but is a different class - "You are a " + class + ". You will not waste your time on a " + item
+
+Stray dog - "WOOF!"
+
+In response - "Will you pet the dog or give it a bone"
+	- "Get out of here, mutt"
+	- *Pet Dog*
+	- *Give Dog Bone*
+
+Stray dog - "Appreciative Bark"
+
+Stray dog - "Downtrodden Whine"
+
+Blacksmith - "I can make any weapon under the sun, not like we'll find that in here."
+
+Juggler - "Make any donation to my performance. Its hard to find new audience members down here."
+	- *Take the one of the Juggler's balls and throw it*
+Juggler - "You know some people don't have an appreciation for what I do, I mean you can watch my performance for free. But you can't give me 5 coins."
+	- *Give 5 coins*
+Juggler - "Thank you, Stranger!"
+	- *Give 10 coins*
+Juggler - "This can feed me for two days."
+	- *Give 25 coins*
+Juggler - "This can fund three performances. Thank you, you connoisseur of the arts"
+	- *Give 50 coins*
+Juggler - "THANK YOU, KIND STRANGER! With this much, I can buy some bowling pins or maybe a new hat!"
+
+Peasant - "It's downright terrible to make anything grow down here. All I get our weeds."
+
+Old Man - "Say sonny, would like to do any old man a favor?"
+
+Old Man - "You know our village makes its houses from the shells of the turtles which wonder these halls, I wonder if you can get me a shell from of those things?"
+
+Old Man - "In return, I'll give a very nice gift."
+	- "Get away from me, old fool"
+	- "Yes, I will help."
+
+Old Man - "Thank you, this will build a nice home! Here take this."
+	- *Gives you a steel battleaxe* Class = Fighter
+	- *Gives you a steel bow* Class = Thief
+	- *Gives you a scroll for lightning bolt* Class = Mage
+
+Beggar - "Please, out of the goodness of your heart give me some coins. I have a family to feed."
+	- *Give 5 coins*
+Beggar - "Thank you, Stranger!"
+	- *Give 10 coins*
+Beggar - "I will be able to buy some bread with this."
+	- *Give 25 coins*
+Beggar - "Thank you, I can buy two days worth of food with this."
+	- *Give 50 coins*
+Beggar - "Are you serious?! You're giving me this much! THANK YOU!"
+
+Every NPC (If you have killed an NPC) - "You... You killed him! I don't think I want to talk to a murder. Get away from me!"
+
+King - "So you have come to plead your case to me. Well get on with it."
+
+King - "It seems I was wrong to imprison you, I'm sorry. You are free to go from this place. If you are willing I will make you one of my royal advisors."
+
+King - "You have not done anything of virtue in that prison, you shall stay there for the rest of your days."
+
+

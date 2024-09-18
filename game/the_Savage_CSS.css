@@ -1,0 +1,18 @@
+.root {
+	-fx-background-color: black;
+}
+
+.label {
+	-fx-text-fill: white;
+	-fx-font-size: 22px;
+}
+
+.button {
+	-fx-background-color: black;
+	-fx-text-fill: orange;
+}
+
+.text-area .content {
+	-fx-background-color: black;
+	-fx-text-fill: orange;
+}

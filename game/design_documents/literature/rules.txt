@@ -1,0 +1,27 @@
+The player is allowed to travel anywhere through the labyrinth and kill almost anything. Some NPCs will be essential for the time that their quests allow.
+
+The player is allowed to make decisions based the actions which can be taken, the movement will be made by the arrow keys. This allows free movement throughout the various rooms and corridors of the labyrinth. 
+
+The player is able to inspect or pick up an item. The effects of the item will take effect almost immediately upon it being placed in the inventory.
+
+The Labyrinth is going to be built of various rooms which will the player will explore to progress through the floors. The floors will be different each time. There is a max of 1 floor(s)(for now).
+
+There will be one door and one key which will open the door which will take the player to another level.
+
+The players will be able to take simple quests from the NPCs in settlements to earn extra rewards or experience.
+
+The player will have skills that are affected by the Attributes. These skills are Athletics, Blade, Block, Hand-to-Hand, Heavy Armor, Light Armor, Destruction, Mysticism, Restoration, Marksman, Mercantile, Speechcraft.
+
+The list of skills and their affects:
+Athletics - Will affect handling of weapons will give a negative bonus if low while you using a higher level weapon or spell.
+Blade - Will affect the damage of a blade, will lessen the amount the blade is hindered by a percentage.
+Hand-to-Hand - Will affect the damage of a fisticuffs weapon, will lessen the amount the weapon is hindered by a percentage.
+Heavy Armor - Will affect the defense a heavy piece of armor gives, will strengthen the defense by a percentage.
+Light Armor - Will affect the defense a light piece of armor gives, will strengthen the defense by a percentage.
+Destruction - Will affect the damage of a combat spell, will lessen the amount the spell is hindered by a percentage.
+Mysticism - Will affect the effectiveness of a spell that is not a healing or combat spell.
+Restoration - Will affect the recovery of a health spell, will lessen the amount the spell is hindered by a percentage.
+Marksman - Will affect the damage of a bow, will lessen the amount the bow is hindered by a percentage.
+Mercantile - Will affect the prices of items in a shop.
+Speechcraft - Will affect virtue you will receive by a percentage.
+
